@@ -1,2 +1,3 @@
-# Unicorn-Project
-Unicorn Company: Data Exploration &amp; Insights
+**Unicorn Company: Data Exploration & Insights**
+
+
