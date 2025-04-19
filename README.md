@@ -14,5 +14,6 @@ Cleaned and joined tables, performed aggregations, and ranked cities, products, 
 Created a Tableau dashboard to present key insights, trends, and actionable recommendations for business decision-making.
 ## Links to Files
 - [Tableau Public Visualization](https://public.tableau.com/views/UnicornProjekt/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- [SQL Queries](https://www.notion.so/SQL-Queries-15c8295c2e5a80edb474e9f83119e7a7?pvs=4)
 
 
