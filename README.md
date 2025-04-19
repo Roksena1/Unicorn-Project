@@ -15,6 +15,6 @@ Created a Tableau dashboard to present key insights, trends, and actionable reco
 ## Links to Files
 - [Tableau Public Visualization](https://public.tableau.com/views/UnicornProjekt/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [SQL Queries](https://www.notion.so/SQL-Queries-15c8295c2e5a80edb474e9f83119e7a7?pvs=4)
-- [Spreadsheets Formula](https://www.notion.so/Spreadsheets-Formeln-15c8295c2e5a804f8ff0d879d2226258?pvs=4)
+- [Spreadsheets Formulas](https://www.notion.so/Spreadsheets-Formeln-15c8295c2e5a804f8ff0d879d2226258?pvs=4)
 
 
