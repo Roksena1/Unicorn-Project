@@ -5,7 +5,7 @@ Given that the online sector has gradually gained market share over the past two
 ## Goal 
 To perform in-depth data exploration using Google Spreadsheet, SQL and build a dashboard with Tableau to provide insights and business recommendations for the E-Commerce company Unicorn.
 ## Used Tools (Google Spreadsheets, PostgreSQL, Tableau)
-## 1. Analysis with Google Sheets
+## 1. Analysis with Google Sheets/Excel
 Used pivot tables, created calculated columns (e.g., price per unit), and highlighted underperforming regions using conditional formatting.
 ## 2. Data Exploration with SQL
 Explored the Unicorn database using SQL to answer critical questions about sales, profit, and customer behavior.
